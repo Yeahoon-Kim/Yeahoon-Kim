@@ -41,6 +41,7 @@
 </ul>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
+<hr />
 
 <p>
   <span>💬 I&#39;m constantly solving problems using algorithms</span>
