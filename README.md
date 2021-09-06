@@ -8,12 +8,14 @@
 </p>
 <p>&nbsp;</p>
 
-<h4 id='korea-university-student'><span>Korea University Student</span></h4>
+<h3><span>Korea University Student</span></h3>
 
 <p>&nbsp;</p>
 
-<h4 id='fields-of-interest'><span>Fields of interest</span></h4>
+<h3><span>Fields of interest</span></h3>
+
 <hr />
+
 <p>
   <img src="https://img.shields.io/badge/C++-00599c?style=flat&logo=c%2b%2b&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C-a8b9cc?style=flat&logo=c&logoColor=ffffff"/>
