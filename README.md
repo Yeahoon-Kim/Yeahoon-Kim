@@ -1,5 +1,5 @@
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=300&amp;text=Crescendo0709&amp;fontAlign=60&amp;color=gradient" style="max-width: 100%;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;text=Crescendo0709&amp;fontAlign=60&amp;color=gradient" style="max-width: 100%;">
   </p>
   <p>
   <a href="https://blog.naver.com/apple8718" target="_blank">
