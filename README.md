@@ -6,8 +6,6 @@
     <img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=flat&logo=naver&logoColor=ffffff"/>
   </a>
 </p>
-<p>&nbsp;</p>
-
 <h3><span>Korea University Student</span></h3>
 
 <p>&nbsp;</p>
