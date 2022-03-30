@@ -26,16 +26,17 @@
   <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=SQLite&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=ffffff"/>
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
-</p>
 
 <h4 align="center">Frameworks</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
 </p>
 
+<h4 align="center">Others</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
+</p>
 
 <p>&nbsp;</p>
 
