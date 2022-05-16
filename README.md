@@ -30,6 +30,7 @@
 <h4 align="center">Frameworks</h4>
 <p align="center">
   <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
 </p>
 
 <h4 align="center">Others</h4>
