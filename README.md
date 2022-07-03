@@ -5,6 +5,8 @@
   <a href="https://blog.naver.com/apple8718" target="_blank">
     <img src="https://img.shields.io/badge/NAVER Blog-03C75A?style=for-the-badge&logo=naver&logoColor=ffffff"/>
   </a>
+  <a href="https://www.kaggle.com/apple8718" target="_blank">
+    <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=ffffff"/></a>
 </p align="center">
 <h3 align="center">Korea University Student</h3>
 
