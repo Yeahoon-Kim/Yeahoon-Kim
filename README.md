@@ -43,7 +43,7 @@
 
 <p>&nbsp;</p>
 
-<h2 align="center">Study Rating</h2>
+<h2 align="center">🎖️Study Rating🎖️</h2>
 
 <h3 align="center">Baekjoon Online Judge</h3>
 
@@ -51,7 +51,21 @@
   <a href='https://solved.ac/apple8718'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=apple8718" referrerpolicy="no-referrer" alt="solved.ac tier"></a>
   <a href='https://solved.ac/apple8718'><img src="http://mazandi.herokuapp.com/api?handle=apple8718" referrerpolicy="no-referrer" alt="solved.ac tier"></a>
 </p>
-  
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Yeahoon-Kim&count_private=true&show_icons=true&theme=dark"/></a>
+
+<h3 align="center">Codeforces</h3>
+
+<p align="center">
+  <a href='https://codeforces.com/profile/Crescend0'><img src="https://cf.leed.at?id=Crescend0" referrerpolicy="no-referrer" alt="codeforces tier"></a>
 </p>
+  
+<h2 align="center">📖Github Status📖</h2>
+<table align="center">
+  <tr>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yeahoon-Kim&show_icons=true&include_all_commits=true&theme=blue&hide_border=true&count_private=true" alt="Yeahoon-Kim's github stats" />
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yeahoon-Kim&layout=compact&theme=blue&hide_border=true&langs_count=10" alt="Yeahoon-Kim's language status"/>
+    </td>
+  </tr>
+</table>
