@@ -8,19 +8,19 @@
   <a href="https://www.kaggle.com/yeahoonkim" target="_blank">
     <img src="https://img.shields.io/badge/kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=ffffff"/></a>
 </p align="center">
-<h3 align="center">Korea University Student</h3>
 
-<p>&nbsp;</p>
+<h2 align="center">Korea University Student</h2>
 
-<h3 align="center">🛠Tech Stack🛠</h3>
+<h2 align="center">🛠Tech Stack🛠</h2>
 
-<h4 align="center">🧾Languages🧾</h4>
+<h3 align="center">🧾Languages🧾</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/C-a8b9cc?style=for-the-badge&logo=c&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=c%2b%2b&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=Python&logoColor=ffffff"/>
 </p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
@@ -29,13 +29,13 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=ffffff"/>
 </p>
 
-<h4 align="center">Frameworks</h4>
+<h3 align="center">Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
 </p>
 
-<h4 align="center">Others</h4>
+<h3 align="center">Others</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=Linux&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=Git&logoColor=ffffff"/>
@@ -43,8 +43,14 @@
 
 <p>&nbsp;</p>
 
+<h2 align="center">Study Rating</h2>
+
+<h3 align="center">Baekjoon Online Judge</h3>
+
 <p align="center">
-  <a href='https://solved.ac/apple8718'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=apple8718" referrerpolicy="no-referrer" alt="solved.ac tier"></a></p>
+  <a href='https://solved.ac/apple8718'><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=apple8718" referrerpolicy="no-referrer" alt="solved.ac tier"></a>
+  <a href='https://solved.ac/apple8718'><img src="http://mazandi.herokuapp.com/api?handle=apple8718" referrerpolicy="no-referrer" alt="solved.ac tier"></a>
+</p>
   
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Yeahoon-Kim&count_private=true&show_icons=true&theme=dark"/></a>
