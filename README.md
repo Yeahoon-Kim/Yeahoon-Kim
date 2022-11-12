@@ -26,13 +26,13 @@
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=MySQL&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/SQLite-003b57?style=for-the-badge&logo=SQLite&logoColor=ffffff"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=ffffff"/>
 </p>
 
 <h3 align="center">Frameworks</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/scikit learn-f7931e?style=for-the-badge&logo=scikit-learn&logoColor=ffffff"/>
   <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=ffffff"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=ffffff"/>
 </p>
 
 <h3 align="center">Others</h3>
